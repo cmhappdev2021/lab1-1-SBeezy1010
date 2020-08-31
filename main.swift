@@ -10,5 +10,5 @@ print("My favorite song is Old Streets by 2k baby")
 
 
 // Use multiple print functions to write out some of the lyrics to the song.
-print("Man I miss the old streets. These people lame they gotta show me. They know my name but they don't know me got all this space somebody hold me, yeah. So now i ball like Kobe." )
+print("Man I miss the old streets. These people lame they gotta show me.They know my name but they don't know me got all this space somebody hold me, yeah. So now I ball like Kobe.These people be so phoney")
 
